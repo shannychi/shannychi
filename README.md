@@ -1,8 +1,8 @@
  [![Linkedin Badge](https://img.shields.io/badge/-edehsharon-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edeh-sharon-935a72251)](https://www.linkedin.com/in/edeh-sharon-935a72251) [![Twitter Badge](https://img.shields.io/badge/-@SharonEdeh-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/sharonEdeh)](https://twitter.com/sharonEdeh)
 
-## 👋 Hello, I'm Sharon - Junior Web Developer
+## 👋 Hello, I'm Sharon - Web Developer
 
-Welcome to my GitHub profile! I'm a passionate junior web developer with a strong foundation in front-end technologies and a drive to create engaging and user-friendly web experiences. Here's a glimpse into my journey:
+Welcome to my GitHub profile! I'm a passionate web developer with a strong foundation in front-end technologies and a drive to create engaging and user-friendly web experiences. Here's a glimpse into my journey:
 
 ### 🔧 Skills
 - **Languages:** HTML, CSS, JavaScript
