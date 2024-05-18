@@ -1,21 +1,21 @@
  [![Linkedin Badge](https://img.shields.io/badge/-edehsharon-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edeh-sharon-935a72251)](https://www.linkedin.com/in/edeh-sharon-935a72251) [![Twitter Badge](https://img.shields.io/badge/-@SharonEdeh-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/sharonEdeh)](https://twitter.com/sharonEdeh)
 
-## 👋 Hello, I'm Sharon - Web Developer
+## 👋 Hello, I'm Sharon - Junior Fullstack Developer
 
-Welcome to my GitHub profile! I'm a passionate web developer with a strong foundation in front-end technologies and a drive to create engaging and user-friendly web experiences. Here's a glimpse into my journey:
+Welcome to my GitHub profile! I'm a passionate full-stack developer with a solid foundation in both front-end and back-end technologies. I'm driven to create engaging, user-friendly web experiences. Here's a glimpse into my journey:
 
 ### 🔧 Skills
 - **Languages:** HTML, CSS, JavaScript
-- **Frameworks:** React.js
+- **Frameworks:** React.js, Node.js, Express
+- **Databases:** MongoDB, MySQL
 - **Tools:** Git, Visual Studio Code
 - **Responsive Design:** Mobile-first approach
 
 ### 💡 Interests
-- Excited about front-end development, UI/UX design, and creating visually appealing web applications.
+- Excited about front-end development, back-end development, UI/UX design, and creating visually appealing web applications.
 - Keen interest in exploring new technologies and staying up-to-date with industry trends.
 
 ### 🌱 Learning Journey
-- Currently learning react/ node.js to expand my skill set and take on more challenging projects.
 - Actively participating in online courses and coding challenges to enhance my coding proficiency.
 
 ### 🤝 Open to Collaboration
